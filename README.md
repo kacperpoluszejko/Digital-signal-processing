@@ -1,9 +1,8 @@
-#💻 Cyfrowe przetwarzanie sygnałów
+# 💻 Cyfrowe przetwarzanie sygnałów
 
 To repozytorium zawiera zestaw programów i analiz związanych z cyfrowym przetwarzaniem sygnałów zrealizowanych w ramach studiów inżynierskich na kierunku Mikro- i Nanotechnologie w Biofizyce.
 
 Każdy projekt zawiera:
-
  - Kod źródłowy symulacji
  - Instrukcję do ćwiczenia
  - Sprawozdanie
